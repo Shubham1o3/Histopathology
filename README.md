@@ -35,13 +35,6 @@ This strategy helps enrich the training data and reduces the risk of overfitting
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0918f4d1-0a98-4378-b2c7-d4ba182b060f" alt="pse" width="600" height="616" />
-  <br>
-  <em>Figure : Pseudo bag mixup method </em>
-</p>
-
-
 Files and their Purpose
 1. main.py : main script for training model (Modify hyperparameters learning rate, No. of epochs)
 2. Inference.py = script to find classification(prediction) of wsi by giving slide name.
