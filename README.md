@@ -20,7 +20,6 @@ Current Result :
 1. N0 dataset : FN - 1 , Fp - 0 (Test loss: 0.1045      Test acc: 0.9844    Test auc: 0.9918)
 2. CamelYon17 : model overfits for ABMIL-plain model
 
-
 ## Model 2: ABMIL Pseudo Augmentation model (ABMIL-Pse)
 - ABMIL-Pse is a data augmentation technique designed to create pseudo bags by sampling a subset of instances from whole slide images (WSIs). 
 - The process begins by extracting features from each instance of a WSI and grouping them into K phenotype clusters using cosine similarity, ensuring that similar features are clustered together. 
@@ -55,3 +54,21 @@ Current Result :
 1. N0 dataset : FN - 3 , FP - 3 
 2. CamelYon17 : FN - 2, FP - 0
 
+Classification and segmentation:
+1. N0 dataset:
+   
+<p align="center">
+<img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/17a158a3-66e4-4cff-b75c-6f7dbb67eaba" />
+</p>
+
+2. Camelyon 17:
+   
+<p align="center">
+  <img height="400" alt="patient_017_node_4" src="https://github.com/user-attachments/assets/12eb5bc1-4d7f-4e38-bf31-55a96f67c341" />
+  <img src="https://github.com/user-attachments/assets/87be550e-a1af-457c-954f-fbc907148f16" alt="patient_015_node_2" height="400" />
+</p>
+
+- Ground truth identification on Camelyon17 (Green:ground truth, Red:prediction)
+<p align="center">
+  <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/c744df44-2bef-4f27-8e74-af42e163e166" />
+</p>
