@@ -1,6 +1,8 @@
 # Histopathology
-Head and Neck SCC 
-
+Head and Neck SCC
+<p align="center">
+<img width="1002" height="402" alt="image" src="https://github.com/user-attachments/assets/a842e973-5e34-46d9-a30d-3ca1974f3c12" />
+</p>
 
 
 ## Model 1: ABMIL-Vanilla model 
@@ -62,7 +64,7 @@ Classification and segmentation:
 </p>
 
 2. Camelyon 17:
-   
+   ABMIL-Pse
 <p align="center">
   <img height="400" alt="patient_017_node_4" src="https://github.com/user-attachments/assets/12eb5bc1-4d7f-4e38-bf31-55a96f67c341" />
   <img src="https://github.com/user-attachments/assets/87be550e-a1af-457c-954f-fbc907148f16" alt="patient_015_node_2" height="400" />
