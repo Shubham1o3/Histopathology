@@ -29,7 +29,7 @@ Current Result :
 This strategy helps enrich the training data and reduces the risk of overfitting in weakly supervised learning models.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f39f625b-04d5-4439-8772-9633bb7a23ac" alt="abmil-pse" width="500" height="500" />
+ <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ff8452d1-e947-4e28-bfb6-8f0ef302089f" />
   <br>
   <em>Figure : Pipelne for ABMIL-Pse</em>
 </p>
